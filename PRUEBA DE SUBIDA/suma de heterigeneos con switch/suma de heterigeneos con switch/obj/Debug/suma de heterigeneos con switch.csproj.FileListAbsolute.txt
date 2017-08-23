@@ -1,0 +1,10 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterigeneos con switch\suma de heterigeneos con switch\bin\Debug\suma de heterigeneos con switch.exe.config
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\bin\Debug\suma de heterigeneos con switch.exe.config
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\bin\Debug\suma de heterigeneos con switch.exe
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\bin\Debug\suma de heterigeneos con switch.pdb
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\obj\Debug\suma de heterigeneos con switch.csprojResolveAssemblyReference.cache
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\obj\Debug\suma_de_heterigeneos_con_switch.Form1.resources
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\obj\Debug\suma_de_heterigeneos_con_switch.Properties.Resources.resources
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\obj\Debug\suma de heterigeneos con switch.csproj.GenerateResource.Cache
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\obj\Debug\suma de heterigeneos con switch.exe
+E:\suma de heterigeneos con switch\suma de heterigeneos con switch\obj\Debug\suma de heterigeneos con switch.pdb

@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\bin\Debug\NUMERO2.exe.config
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\obj\Debug\NUMERO2.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\obj\Debug\NUMERO2.Form1.resources
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\obj\Debug\NUMERO2.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\obj\Debug\NUMERO2.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\bin\Debug\NUMERO2.exe
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\bin\Debug\NUMERO2.pdb
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\obj\Debug\NUMERO2.exe
+C:\Users\Aprendiz\Desktop\c~#\NUMERO2\NUMERO2\obj\Debug\NUMERO2.pdb

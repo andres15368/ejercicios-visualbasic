@@ -1,0 +1,8 @@
+D:\Yaneth\ejercicios profe claudia\2.mensaje\2.mensaje\bin\Debug\2.mensaje.exe.config
+D:\Yaneth\ejercicios profe claudia\2.mensaje\2.mensaje\bin\Debug\2.mensaje.exe
+D:\Yaneth\ejercicios profe claudia\2.mensaje\2.mensaje\bin\Debug\2.mensaje.pdb
+D:\Yaneth\ejercicios profe claudia\2.mensaje\2.mensaje\obj\Debug\_2.mensaje.Form1.resources
+D:\Yaneth\ejercicios profe claudia\2.mensaje\2.mensaje\obj\Debug\_2.mensaje.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\2.mensaje\2.mensaje\obj\Debug\2.mensaje.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\2.mensaje\2.mensaje\obj\Debug\2.mensaje.exe
+D:\Yaneth\ejercicios profe claudia\2.mensaje\2.mensaje\obj\Debug\2.mensaje.pdb

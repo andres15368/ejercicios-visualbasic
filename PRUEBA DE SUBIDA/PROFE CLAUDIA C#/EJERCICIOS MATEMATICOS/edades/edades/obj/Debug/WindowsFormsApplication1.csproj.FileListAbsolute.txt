@@ -1,0 +1,8 @@
+C:\Users\ANDRES RIVAS\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ANDRES RIVAS\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ANDRES RIVAS\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ANDRES RIVAS\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.calcular.resources
+C:\Users\ANDRES RIVAS\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ANDRES RIVAS\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ANDRES RIVAS\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ANDRES RIVAS\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

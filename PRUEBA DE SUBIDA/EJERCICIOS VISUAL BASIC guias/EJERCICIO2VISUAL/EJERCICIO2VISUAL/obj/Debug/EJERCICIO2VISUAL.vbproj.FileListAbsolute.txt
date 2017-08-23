@@ -1,0 +1,11 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\bin\Debug\EJERCICIO2VISUAL.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\bin\Debug\EJERCICIO2VISUAL.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\bin\Debug\EJERCICIO2VISUAL.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\bin\Debug\EJERCICIO2VISUAL.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\obj\Debug\EJERCICIO2VISUAL.vbprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\obj\Debug\EJERCICIO2VISUAL.FORMULARIO.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\obj\Debug\EJERCICIO2VISUAL.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\obj\Debug\EJERCICIO2VISUAL.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\obj\Debug\EJERCICIO2VISUAL.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\obj\Debug\EJERCICIO2VISUAL.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO2VISUAL\EJERCICIO2VISUAL\obj\Debug\EJERCICIO2VISUAL.pdb

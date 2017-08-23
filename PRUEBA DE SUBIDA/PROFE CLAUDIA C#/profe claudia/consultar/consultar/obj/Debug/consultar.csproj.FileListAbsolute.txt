@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\bin\Debug\consultar.exe.config
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\bin\Debug\consultar.exe
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\bin\Debug\consultar.pdb
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\obj\Debug\consultar.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\obj\Debug\consultar.Form1.resources
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\obj\Debug\consultar.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\obj\Debug\consultar.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\obj\Debug\consultar.exe
+C:\Users\Aprendiz\Desktop\profe claudia c#\consultar\consultar\obj\Debug\consultar.pdb

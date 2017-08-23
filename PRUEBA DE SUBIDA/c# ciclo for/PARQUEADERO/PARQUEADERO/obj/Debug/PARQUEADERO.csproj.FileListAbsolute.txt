@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\bin\Debug\PARQUEADERO.exe.config
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\bin\Debug\PARQUEADERO.exe
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\bin\Debug\PARQUEADERO.pdb
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\obj\Debug\PARQUEADERO.Form1.resources
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\obj\Debug\PARQUEADERO.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\obj\Debug\PARQUEADERO.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\obj\Debug\PARQUEADERO.exe
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\obj\Debug\PARQUEADERO.pdb
+C:\Users\Aprendiz\Desktop\c# ciclo for\PARQUEADERO\PARQUEADERO\obj\Debug\PARQUEADERO.csprojResolveAssemblyReference.cache

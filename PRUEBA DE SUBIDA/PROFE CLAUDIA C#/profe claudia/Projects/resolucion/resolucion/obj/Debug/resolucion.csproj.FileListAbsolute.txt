@@ -1,0 +1,4 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\resolucion\resolucion\bin\Debug\resolucion.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\resolucion\resolucion\obj\Debug\resolucion.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\resolucion\resolucion\obj\Debug\resolucion.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\resolucion\resolucion\obj\Debug\resolucion.csproj.GenerateResource.Cache

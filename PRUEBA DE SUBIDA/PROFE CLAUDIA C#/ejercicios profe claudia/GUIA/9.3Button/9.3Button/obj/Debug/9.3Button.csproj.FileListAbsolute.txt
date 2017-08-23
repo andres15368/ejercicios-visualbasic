@@ -1,0 +1,8 @@
+D:\Yaneth\ejercicios profe claudia\9.3Button\9.3Button\bin\Debug\9.3Button.exe.config
+D:\Yaneth\ejercicios profe claudia\9.3Button\9.3Button\bin\Debug\9.3Button.exe
+D:\Yaneth\ejercicios profe claudia\9.3Button\9.3Button\bin\Debug\9.3Button.pdb
+D:\Yaneth\ejercicios profe claudia\9.3Button\9.3Button\obj\Debug\_9._3Button.Form1.resources
+D:\Yaneth\ejercicios profe claudia\9.3Button\9.3Button\obj\Debug\_9._3Button.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\9.3Button\9.3Button\obj\Debug\9.3Button.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\9.3Button\9.3Button\obj\Debug\9.3Button.exe
+D:\Yaneth\ejercicios profe claudia\9.3Button\9.3Button\obj\Debug\9.3Button.pdb

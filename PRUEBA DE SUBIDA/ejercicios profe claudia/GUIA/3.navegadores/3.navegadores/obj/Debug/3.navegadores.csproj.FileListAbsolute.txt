@@ -1,0 +1,8 @@
+D:\Yaneth\ejercicios profe claudia\3.navegadores\3.navegadores\bin\Debug\3.navegadores.exe.config
+D:\Yaneth\ejercicios profe claudia\3.navegadores\3.navegadores\bin\Debug\3.navegadores.exe
+D:\Yaneth\ejercicios profe claudia\3.navegadores\3.navegadores\bin\Debug\3.navegadores.pdb
+D:\Yaneth\ejercicios profe claudia\3.navegadores\3.navegadores\obj\Debug\_3.navegadores.Form1.resources
+D:\Yaneth\ejercicios profe claudia\3.navegadores\3.navegadores\obj\Debug\_3.navegadores.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\3.navegadores\3.navegadores\obj\Debug\3.navegadores.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\3.navegadores\3.navegadores\obj\Debug\3.navegadores.exe
+D:\Yaneth\ejercicios profe claudia\3.navegadores\3.navegadores\obj\Debug\3.navegadores.pdb

@@ -1,0 +1,9 @@
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\bin\Debug\radiobutton.exe.config
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\bin\Debug\radiobutton.exe
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\bin\Debug\radiobutton.pdb
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\obj\Debug\radiobutton.csprojResolveAssemblyReference.cache
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\obj\Debug\radiobutton.Form1.resources
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\obj\Debug\radiobutton.Properties.Resources.resources
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\obj\Debug\radiobutton.csproj.GenerateResource.Cache
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\obj\Debug\radiobutton.exe
+F:\Yaneth\ejercicios profe claudia\radiobutton\radiobutton\obj\Debug\radiobutton.pdb

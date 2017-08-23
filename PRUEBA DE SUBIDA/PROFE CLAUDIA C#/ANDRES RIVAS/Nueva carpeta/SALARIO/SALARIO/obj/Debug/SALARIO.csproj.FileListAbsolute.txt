@@ -1,0 +1,9 @@
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\bin\Debug\SALARIO.exe.config
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\bin\Debug\SALARIO.exe
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\bin\Debug\SALARIO.pdb
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\obj\Debug\SALARIO.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\obj\Debug\SALARIO.Form1.resources
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\obj\Debug\SALARIO.Properties.Resources.resources
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\obj\Debug\SALARIO.csproj.GenerateResource.Cache
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\obj\Debug\SALARIO.exe
+C:\Users\Natalia\Desktop\SALARIO\SALARIO\obj\Debug\SALARIO.pdb

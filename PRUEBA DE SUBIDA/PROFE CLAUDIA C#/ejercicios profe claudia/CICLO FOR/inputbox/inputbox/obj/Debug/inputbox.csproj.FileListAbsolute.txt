@@ -1,0 +1,33 @@
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\bin\Debug\inputbox.exe.config
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\bin\Debug\inputbox.exe
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\bin\Debug\inputbox.pdb
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\obj\Debug\inputbox.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\obj\Debug\inputbox.porcentaje1.resources
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\obj\Debug\inputbox.Properties.Resources.resources
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\obj\Debug\inputbox.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\obj\Debug\inputbox.exe
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\inputbox\obj\Debug\inputbox.pdb
+F:\ejercicios profe\inputbox\inputbox\bin\Debug\inputbox.exe.config
+F:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.exe
+F:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.pdb
+D:\ejercicios profe\inputbox\inputbox\bin\Debug\inputbox.exe.config
+D:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.exe
+D:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.pdb
+D:\ejercicios profe\inputbox\inputbox\bin\Debug\inputbox.exe
+D:\ejercicios profe\inputbox\inputbox\bin\Debug\inputbox.pdb
+D:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.csprojResolveAssemblyReference.cache
+D:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.porcentaje1.resources
+D:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.Properties.Resources.resources
+D:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.csproj.GenerateResource.Cache
+G:\ejercicios profe\inputbox\inputbox\bin\Debug\inputbox.exe.config
+G:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.exe
+G:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.pdb
+G:\ejercicios profe\inputbox\inputbox\bin\Debug\inputbox.exe
+G:\ejercicios profe\inputbox\inputbox\bin\Debug\inputbox.pdb
+G:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.csprojResolveAssemblyReference.cache
+G:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.porcentaje1.resources
+G:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.Properties.Resources.resources
+G:\ejercicios profe\inputbox\inputbox\obj\Debug\inputbox.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\inputbox\inputbox\bin\Debug\inputbox.exe.config
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\inputbox\inputbox\obj\Debug\inputbox.exe
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\inputbox\inputbox\obj\Debug\inputbox.pdb

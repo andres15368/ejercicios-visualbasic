@@ -1,0 +1,12 @@
+ Realice un algoritmo que calcule el monto a pagar por el servicio de estacionamiento, teniendo en cuenta que por la primera hora de estadía se tiene una tarifa de 1000 pesos y las restantes tienen un costo de 600 pesos.
+ 
+Se tiene como datos:
+ hora de entrada,
+ hora de salida (formato militar),
+ iniciada una hora se contabiliza como hora total.
+ 
+
+
+ejercicios
+
+REALICE UN ALGORITMO  PARA QUE LA EMPRESA CONSTRUCTORA TECNOVIVIR  QUE LE PERMITA CALCULAR E IMPRIMIR LA NOMIMA  PARA SU CANCELACION  A UN TOTAL DE 50 OBREROS  QUIENES DEBE CAMCELAR POR HORAS TRABAJADAS LA HORA TRABAJADA SE PAUTO A 10.000 

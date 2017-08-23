@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\bin\Debug\zoologico.exe.config
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\bin\Debug\zoologico.exe
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\bin\Debug\zoologico.pdb
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\obj\Debug\zoologico.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\obj\Debug\zoologico.Form1.resources
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\obj\Debug\zoologico.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\obj\Debug\zoologico.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\obj\Debug\zoologico.exe
+C:\Users\Aprendiz\Desktop\profe claudia c#\zoologico\zoologico\obj\Debug\zoologico.pdb

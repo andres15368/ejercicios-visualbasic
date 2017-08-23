@@ -1,0 +1,8 @@
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.exe.config
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.pdb
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 2\ejercicio 2\obj\Debug\ejercicio_2.Form1.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 2\ejercicio 2\obj\Debug\ejercicio_2.Properties.Resources.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.csproj.GenerateResource.Cache
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.pdb

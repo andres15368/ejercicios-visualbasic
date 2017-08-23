@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoriafor\sumatoriafor\bin\Debug\sumatoriafor.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoriafor\sumatoriafor\obj\Debug\sumatoriafor.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoriafor\sumatoriafor\obj\Debug\sumatoriafor.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoriafor\sumatoriafor\obj\Debug\sumatoriafor.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoriafor\sumatoriafor\bin\Debug\sumatoriafor.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoriafor\sumatoriafor\bin\Debug\sumatoriafor.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoriafor\sumatoriafor\obj\Debug\sumatoriafor.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoriafor\sumatoriafor\obj\Debug\sumatoriafor.pdb

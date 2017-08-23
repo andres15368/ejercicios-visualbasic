@@ -1,0 +1,43 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\MainWindow.g.cs
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\App.g.cs
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación_MarkupCompile.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación_MarkupCompile.lref
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\MainWindow.baml
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.g.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\proyecto_explicación.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.pdb
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.exe.config
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.exe
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.pdb
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.exe
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.pdb
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.csprojResolveAssemblyReference.cache
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\MainWindow.g.cs
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\App.g.cs
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación_MarkupCompile.cache
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación_MarkupCompile.lref
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\MainWindow.baml
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.g.resources
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\proyecto_explicación.Properties.Resources.resources
+E:\DATOS\meyly\PROFE CLAUDIA 4 TRI\5° trimestre\Ejercicios modo gráfico\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.exe.config
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.exe
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.pdb
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.exe
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\bin\Debug\proyecto explicación.pdb
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\MainWindow.g.cs
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\App.g.cs
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación_MarkupCompile.cache
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación_MarkupCompile.lref
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\MainWindow.baml
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.g.resources
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto_explicación.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\proyecto explicación\proyecto explicación\obj\Debug\proyecto explicación_Content.g.cs

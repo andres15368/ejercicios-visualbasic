@@ -1,0 +1,9 @@
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\bin\Debug\1.idiomas.exe.config
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\bin\Debug\1.idiomas.exe
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\bin\Debug\1.idiomas.pdb
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\obj\Debug\1.idiomas.csprojResolveAssemblyReference.cache
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\obj\Debug\_1.idiomas.Form1.resources
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\obj\Debug\_1.idiomas.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\obj\Debug\1.idiomas.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\obj\Debug\1.idiomas.exe
+D:\Yaneth\ejercicios profe claudia\1.idiomas\1.idiomas\obj\Debug\1.idiomas.pdb

@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\bin\Debug\promedio.exe.config
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\obj\Debug\promedio.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\obj\Debug\promedio.Form1.resources
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\obj\Debug\promedio.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\obj\Debug\promedio.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\bin\Debug\promedio.exe
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\bin\Debug\promedio.pdb
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\obj\Debug\promedio.exe
+C:\Users\Aprendiz\Desktop\profe claudia c#\promedio\promedio\obj\Debug\promedio.pdb

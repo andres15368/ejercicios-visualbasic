@@ -1,0 +1,26 @@
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\boton 3\boton 3\bin\Debug\boton 3.exe.config
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\boton 3\boton 3\bin\Debug\boton 3.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\boton 3\boton 3\bin\Debug\boton 3.pdb
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\boton 3\boton 3\obj\Debug\boton_3.Form1.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\boton 3\boton 3\obj\Debug\boton_3.Properties.Resources.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\boton 3\boton 3\obj\Debug\boton 3.csproj.GenerateResource.Cache
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\boton 3\boton 3\obj\Debug\boton 3.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\boton 3\boton 3\obj\Debug\boton 3.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\bin\Debug\boton 3.exe.config
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\obj\Debug\boton 3.exe
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\obj\Debug\boton 3.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\bin\Debug\boton 3.exe
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\bin\Debug\boton 3.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\obj\Debug\boton 3.csprojResolveAssemblyReference.cache
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\obj\Debug\boton_3.Form1.resources
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\obj\Debug\boton_3.Properties.Resources.resources
+C:\Users\olgac\Desktop\CONDICIONALES\boton 3\boton 3\obj\Debug\boton 3.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\bin\Debug\boton 3.exe.config
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\obj\Debug\boton 3.exe
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\obj\Debug\boton 3.pdb
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\bin\Debug\boton 3.exe
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\bin\Debug\boton 3.pdb
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\obj\Debug\boton 3.csprojResolveAssemblyReference.cache
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\obj\Debug\boton_3.Form1.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\obj\Debug\boton_3.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\boton 3\boton 3\obj\Debug\boton 3.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\bin\Debug\numeros.exe.config
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\bin\Debug\numeros.exe
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\bin\Debug\numeros.pdb
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\obj\Debug\numeros.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\obj\Debug\numeros.Form1.resources
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\obj\Debug\numeros.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\obj\Debug\numeros.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\obj\Debug\numeros.exe
+C:\Users\Aprendiz\Desktop\c~#\numeros\numeros\obj\Debug\numeros.pdb

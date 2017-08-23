@@ -1,0 +1,17 @@
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\aleatoria\aleatoria\bin\Debug\aleatoria.exe.config
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.Form1.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.Properties.Resources.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.csproj.GenerateResource.Cache
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\aleatoria\aleatoria\bin\Debug\aleatoria.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\aleatoria\aleatoria\bin\Debug\aleatoria.pdb
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\aleatoria\aleatoria\bin\Debug\aleatoria.exe.config
+C:\Users\olgac\Desktop\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.exe
+C:\Users\olgac\Desktop\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.pdb
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\aleatoria\aleatoria\bin\Debug\aleatoria.exe.config
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.exe
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.pdb
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\aleatoria\aleatoria\bin\Debug\aleatoria.exe.config
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.exe
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\aleatoria\aleatoria\obj\Debug\aleatoria.pdb

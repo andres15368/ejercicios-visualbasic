@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton tres\boton tres\bin\Debug\boton tres.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton tres\boton tres\obj\Debug\boton_tres.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton tres\boton tres\obj\Debug\boton_tres.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton tres\boton tres\obj\Debug\boton tres.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton tres\boton tres\bin\Debug\boton tres.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton tres\boton tres\bin\Debug\boton tres.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton tres\boton tres\obj\Debug\boton tres.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton tres\boton tres\obj\Debug\boton tres.pdb

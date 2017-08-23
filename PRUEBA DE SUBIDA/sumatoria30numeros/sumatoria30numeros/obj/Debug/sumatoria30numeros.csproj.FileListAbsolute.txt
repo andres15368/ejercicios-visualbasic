@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\bin\Debug\sumatoria30numeros.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\bin\Debug\sumatoria30numeros.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\bin\Debug\sumatoria30numeros.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\obj\Debug\sumatoria30numeros.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\obj\Debug\sumatoria30numeros.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\obj\Debug\sumatoria30numeros.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\obj\Debug\sumatoria30numeros.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\obj\Debug\sumatoria30numeros.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\sumatoria30numeros\sumatoria30numeros\obj\Debug\sumatoria30numeros.pdb

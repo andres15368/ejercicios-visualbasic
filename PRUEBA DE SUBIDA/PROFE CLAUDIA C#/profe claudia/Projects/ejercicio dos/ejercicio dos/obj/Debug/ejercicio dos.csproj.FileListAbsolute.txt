@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejercicio dos\ejercicio dos\bin\Debug\ejercicio dos.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejercicio dos\ejercicio dos\bin\Debug\ejercicio dos.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejercicio dos\ejercicio dos\bin\Debug\ejercicio dos.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejercicio dos\ejercicio dos\obj\Debug\ejercicio_dos.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejercicio dos\ejercicio dos\obj\Debug\ejercicio_dos.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejercicio dos\ejercicio dos\obj\Debug\ejercicio dos.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejercicio dos\ejercicio dos\obj\Debug\ejercicio dos.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejercicio dos\ejercicio dos\obj\Debug\ejercicio dos.pdb

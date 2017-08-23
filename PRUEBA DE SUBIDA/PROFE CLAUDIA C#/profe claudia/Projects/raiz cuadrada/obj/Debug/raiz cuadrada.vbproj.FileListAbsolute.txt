@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\bin\Debug\raiz cuadrada.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\obj\Debug\raiz_cuadrada.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\obj\Debug\raiz cuadrada.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\bin\Debug\raiz cuadrada.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\bin\Debug\raiz cuadrada.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\bin\Debug\raiz cuadrada.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\obj\Debug\raiz cuadrada.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\obj\Debug\raiz cuadrada.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cuadrada\obj\Debug\raiz cuadrada.pdb

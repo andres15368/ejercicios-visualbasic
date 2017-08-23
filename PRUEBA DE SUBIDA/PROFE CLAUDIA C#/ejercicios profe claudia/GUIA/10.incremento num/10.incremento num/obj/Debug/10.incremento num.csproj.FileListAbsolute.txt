@@ -1,0 +1,8 @@
+D:\Yaneth\ejercicios profe claudia\10.incremento num\10.incremento num\bin\Debug\10.incremento num.exe.config
+D:\Yaneth\ejercicios profe claudia\10.incremento num\10.incremento num\bin\Debug\10.incremento num.exe
+D:\Yaneth\ejercicios profe claudia\10.incremento num\10.incremento num\bin\Debug\10.incremento num.pdb
+D:\Yaneth\ejercicios profe claudia\10.incremento num\10.incremento num\obj\Debug\_10.incremento_num.Form1.resources
+D:\Yaneth\ejercicios profe claudia\10.incremento num\10.incremento num\obj\Debug\_10.incremento_num.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\10.incremento num\10.incremento num\obj\Debug\10.incremento num.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\10.incremento num\10.incremento num\obj\Debug\10.incremento num.exe
+D:\Yaneth\ejercicios profe claudia\10.incremento num\10.incremento num\obj\Debug\10.incremento num.pdb

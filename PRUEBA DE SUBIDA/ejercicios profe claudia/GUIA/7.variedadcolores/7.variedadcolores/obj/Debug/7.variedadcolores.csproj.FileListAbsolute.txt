@@ -1,0 +1,8 @@
+D:\Yaneth\ejercicios profe claudia\7.variedadcolores\7.variedadcolores\bin\Debug\7.variedadcolores.exe.config
+D:\Yaneth\ejercicios profe claudia\7.variedadcolores\7.variedadcolores\bin\Debug\7.variedadcolores.exe
+D:\Yaneth\ejercicios profe claudia\7.variedadcolores\7.variedadcolores\bin\Debug\7.variedadcolores.pdb
+D:\Yaneth\ejercicios profe claudia\7.variedadcolores\7.variedadcolores\obj\Debug\_7.variedadcolores.Form1.resources
+D:\Yaneth\ejercicios profe claudia\7.variedadcolores\7.variedadcolores\obj\Debug\_7.variedadcolores.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\7.variedadcolores\7.variedadcolores\obj\Debug\7.variedadcolores.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\7.variedadcolores\7.variedadcolores\obj\Debug\7.variedadcolores.exe
+D:\Yaneth\ejercicios profe claudia\7.variedadcolores\7.variedadcolores\obj\Debug\7.variedadcolores.pdb

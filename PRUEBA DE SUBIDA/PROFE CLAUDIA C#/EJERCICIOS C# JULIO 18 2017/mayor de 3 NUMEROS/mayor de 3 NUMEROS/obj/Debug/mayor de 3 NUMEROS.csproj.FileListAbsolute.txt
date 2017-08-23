@@ -1,0 +1,12 @@
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\bin\Debug\mayor de 3 NUMEROS.exe.config
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\obj\Debug\mayor de 3 NUMEROS.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\obj\Debug\mayor_de_3_NUMEROS.Form1.resources
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\obj\Debug\mayor_de_3_NUMEROS.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\obj\Debug\mayor de 3 NUMEROS.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\bin\Debug\mayor de 3 NUMEROS.exe
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\bin\Debug\mayor de 3 NUMEROS.pdb
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\obj\Debug\mayor de 3 NUMEROS.exe
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\obj\Debug\mayor de 3 NUMEROS.pdb
+C:\Users\ANDRES RIVAS\Downloads\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\bin\Debug\mayor de 3 NUMEROS.exe.config
+C:\Users\ANDRES RIVAS\Downloads\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\obj\Debug\mayor de 3 NUMEROS.exe
+C:\Users\ANDRES RIVAS\Downloads\EJERCICIOS C# JULIO 18 2017\mayor de 3 NUMEROS\mayor de 3 NUMEROS\obj\Debug\mayor de 3 NUMEROS.pdb

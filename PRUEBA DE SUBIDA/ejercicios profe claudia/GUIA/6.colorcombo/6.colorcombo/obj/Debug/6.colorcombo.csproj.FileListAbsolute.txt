@@ -1,0 +1,8 @@
+D:\Yaneth\ejercicios profe claudia\6.colorcombo\6.colorcombo\bin\Debug\6.colorcombo.exe.config
+D:\Yaneth\ejercicios profe claudia\6.colorcombo\6.colorcombo\bin\Debug\6.colorcombo.exe
+D:\Yaneth\ejercicios profe claudia\6.colorcombo\6.colorcombo\bin\Debug\6.colorcombo.pdb
+D:\Yaneth\ejercicios profe claudia\6.colorcombo\6.colorcombo\obj\Debug\_6.colorcombo.Form1.resources
+D:\Yaneth\ejercicios profe claudia\6.colorcombo\6.colorcombo\obj\Debug\_6.colorcombo.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\6.colorcombo\6.colorcombo\obj\Debug\6.colorcombo.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\6.colorcombo\6.colorcombo\obj\Debug\6.colorcombo.exe
+D:\Yaneth\ejercicios profe claudia\6.colorcombo\6.colorcombo\obj\Debug\6.colorcombo.pdb

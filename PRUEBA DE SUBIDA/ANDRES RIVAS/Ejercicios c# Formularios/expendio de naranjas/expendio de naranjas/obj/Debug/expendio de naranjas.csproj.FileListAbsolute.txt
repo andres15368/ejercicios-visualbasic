@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\bin\Debug\expendio de naranjas.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\bin\Debug\expendio de naranjas.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\bin\Debug\expendio de naranjas.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\obj\Debug\expendio de naranjas.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\obj\Debug\expendio_de_naranjas.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\obj\Debug\expendio_de_naranjas.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\obj\Debug\expendio de naranjas.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\obj\Debug\expendio de naranjas.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\expendio de naranjas\expendio de naranjas\obj\Debug\expendio de naranjas.pdb

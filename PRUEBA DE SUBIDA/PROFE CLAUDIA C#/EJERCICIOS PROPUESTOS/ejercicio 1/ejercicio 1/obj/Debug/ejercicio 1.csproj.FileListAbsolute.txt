@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.pdb
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.Form1.resources
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.exe
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.pdb

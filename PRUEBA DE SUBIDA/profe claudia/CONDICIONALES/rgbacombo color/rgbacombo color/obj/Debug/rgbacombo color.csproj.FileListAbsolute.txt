@@ -1,0 +1,8 @@
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\rgbacombo color\rgbacombo color\bin\Debug\rgbacombo color.exe.config
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\rgbacombo color\rgbacombo color\bin\Debug\rgbacombo color.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\rgbacombo color\rgbacombo color\bin\Debug\rgbacombo color.pdb
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\rgbacombo color\rgbacombo color\obj\Debug\rgbacombo_color.Form1.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\rgbacombo color\rgbacombo color\obj\Debug\rgbacombo_color.Properties.Resources.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\rgbacombo color\rgbacombo color\obj\Debug\rgbacombo color.csproj.GenerateResource.Cache
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\rgbacombo color\rgbacombo color\obj\Debug\rgbacombo color.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\rgbacombo color\rgbacombo color\obj\Debug\rgbacombo color.pdb

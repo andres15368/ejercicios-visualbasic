@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\bin\Debug\palindrome.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\obj\Debug\palindrome.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\obj\Debug\palindrome.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\obj\Debug\palindrome.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\obj\Debug\palindrome.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\bin\Debug\palindrome.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\bin\Debug\palindrome.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\obj\Debug\palindrome.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\palindrome\palindrome\obj\Debug\palindrome.pdb

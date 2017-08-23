@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.pdb
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.Form1.resources
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.exe
+C:\Users\Aprendiz\Desktop\c# ciclo for\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.pdb

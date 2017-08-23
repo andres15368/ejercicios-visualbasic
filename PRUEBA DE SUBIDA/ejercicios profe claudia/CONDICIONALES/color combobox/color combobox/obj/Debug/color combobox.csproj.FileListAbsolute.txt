@@ -1,0 +1,28 @@
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe.config
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.pdb
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color_combobox.Form1.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color_combobox.Properties.Resources.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.csproj.GenerateResource.Cache
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe.config
+C:\Users\olgac\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.exe
+C:\Users\olgac\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe
+C:\Users\olgac\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color_combobox.Form1.resources
+C:\Users\olgac\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color_combobox.Properties.Resources.resources
+C:\Users\olgac\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.csproj.GenerateResource.Cache
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe.config
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.exe
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.pdb
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.pdb
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.csprojResolveAssemblyReference.cache
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\obj\Debug\color_combobox.Form1.resources
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\obj\Debug\color_combobox.Properties.Resources.resources
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe.config
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.exe
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.pdb

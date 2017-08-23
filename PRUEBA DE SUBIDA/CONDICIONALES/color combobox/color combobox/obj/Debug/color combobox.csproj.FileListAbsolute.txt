@@ -1,0 +1,8 @@
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe.config
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\bin\Debug\color combobox.pdb
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color_combobox.Form1.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color_combobox.Properties.Resources.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.csproj.GenerateResource.Cache
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\color combobox\color combobox\obj\Debug\color combobox.pdb

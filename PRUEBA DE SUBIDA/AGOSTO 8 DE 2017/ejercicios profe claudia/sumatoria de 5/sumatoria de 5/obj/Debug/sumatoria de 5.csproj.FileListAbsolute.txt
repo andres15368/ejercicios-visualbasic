@@ -1,0 +1,15 @@
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\bin\Debug\sumatoria de 5.exe.config
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\bin\Debug\sumatoria de 5.exe
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\bin\Debug\sumatoria de 5.pdb
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria de 5.csprojResolveAssemblyReference.cache
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria_de_5.Form1.resources
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria_de_5.Properties.Resources.resources
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria de 5.csproj.GenerateResource.Cache
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria de 5.exe
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria de 5.pdb
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria_de_5.sumatoria_de_2.resources
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria_de_5.sumatoriaimpares.resources
+E:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria_de_5.vendedores.resources
+D:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\bin\Debug\sumatoria de 5.exe.config
+D:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria de 5.exe
+D:\Yaneth\ejercicios profe claudia\sumatoria de 5\sumatoria de 5\obj\Debug\sumatoria de 5.pdb

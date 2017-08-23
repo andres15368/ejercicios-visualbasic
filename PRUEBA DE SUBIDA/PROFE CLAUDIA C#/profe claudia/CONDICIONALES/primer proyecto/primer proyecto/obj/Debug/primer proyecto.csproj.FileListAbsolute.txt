@@ -1,0 +1,9 @@
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe.config
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\bin\Debug\primer proyecto.pdb
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form1.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Properties.Resources.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csproj.GenerateResource.Cache
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer proyecto.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer proyecto.pdb

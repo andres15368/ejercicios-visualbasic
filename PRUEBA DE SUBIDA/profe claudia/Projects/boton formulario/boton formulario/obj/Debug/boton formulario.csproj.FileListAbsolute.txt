@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\bin\Debug\boton formulario.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\bin\Debug\boton formulario.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\bin\Debug\boton formulario.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\obj\Debug\boton formulario.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\obj\Debug\boton_formulario.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\obj\Debug\boton_formulario.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\obj\Debug\boton formulario.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\obj\Debug\boton formulario.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\boton formulario\boton formulario\obj\Debug\boton formulario.pdb

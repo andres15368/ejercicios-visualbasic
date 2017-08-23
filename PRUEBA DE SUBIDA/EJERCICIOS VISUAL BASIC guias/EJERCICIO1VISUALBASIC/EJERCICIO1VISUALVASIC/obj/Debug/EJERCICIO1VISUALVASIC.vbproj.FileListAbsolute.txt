@@ -1,0 +1,11 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\bin\Debug\EJERCICIO1VISUALVASIC.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\bin\Debug\EJERCICIO1VISUALVASIC.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\bin\Debug\EJERCICIO1VISUALVASIC.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\bin\Debug\EJERCICIO1VISUALVASIC.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\obj\Debug\EJERCICIO1VISUALVASIC.vbprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\obj\Debug\EJERCICIO1VISUALVASIC.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\obj\Debug\EJERCICIO1VISUALVASIC.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\obj\Debug\EJERCICIO1VISUALVASIC.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\obj\Debug\EJERCICIO1VISUALVASIC.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\obj\Debug\EJERCICIO1VISUALVASIC.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\EJERCICIO1VISUALVASIC\EJERCICIO1VISUALVASIC\obj\Debug\EJERCICIO1VISUALVASIC.pdb

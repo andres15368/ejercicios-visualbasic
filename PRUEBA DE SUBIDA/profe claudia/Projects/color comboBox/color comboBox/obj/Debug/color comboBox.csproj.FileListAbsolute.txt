@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\color comboBox\color comboBox\bin\Debug\color comboBox.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\color comboBox\color comboBox\bin\Debug\color comboBox.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\color comboBox\color comboBox\bin\Debug\color comboBox.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\color comboBox\color comboBox\obj\Debug\color_comboBox.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\color comboBox\color comboBox\obj\Debug\color_comboBox.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\color comboBox\color comboBox\obj\Debug\color comboBox.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\color comboBox\color comboBox\obj\Debug\color comboBox.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\color comboBox\color comboBox\obj\Debug\color comboBox.pdb

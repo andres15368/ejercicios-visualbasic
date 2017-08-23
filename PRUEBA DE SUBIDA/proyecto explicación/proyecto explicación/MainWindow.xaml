@@ -1,0 +1,43 @@
+﻿<Window x:Class="proyecto_explicación.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:proyecto_explicación"
+        mc:Ignorable="d"
+        Title="Juego de memoria" Height="500" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+    <Grid x:Name="Pantalladejuego">
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width=" * "/>
+            <ColumnDefinition Width=" * "/>
+            <ColumnDefinition Width=" * "/>
+            <ColumnDefinition Width=" * "/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height=" * "/>
+            <RowDefinition Height=" * "/>
+            <RowDefinition Height=" * "/>
+            <RowDefinition Height=" * "/>
+        </Grid.RowDefinitions>
+    </Grid>
+        <StackPanel Grid.Row="1">
+           <TextBlock Text="Aciertos"/>
+            <TextBox x:Name="Aciertos" IsEnabled="False"></TextBox>
+            <TextBlock Text="Fallidos"/>
+            <TextBox x:Name="Fallidos" IsEnabled="False"/>
+            <TextBlock Text="Tiempo" Height="18" >
+                
+            </TextBlock>
+            <TextBox x:Name="Tiempo" Height="27"></TextBox>
+        </StackPanel>
+    </Grid>
+
+</Window>

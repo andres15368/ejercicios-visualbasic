@@ -1,0 +1,18 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\bin\Debug\notas.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\bin\Debug\notas.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\bin\Debug\notas.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\obj\Debug\notas.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\obj\Debug\notas.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\obj\Debug\notas.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\obj\Debug\notas.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\obj\Debug\notas.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\notas\notas\obj\Debug\notas.pdb
+E:\notas\notas\bin\Debug\notas.exe.config
+E:\notas\notas\obj\Debug\notas.exe
+E:\notas\notas\obj\Debug\notas.pdb
+E:\notas\notas\bin\Debug\notas.exe
+E:\notas\notas\bin\Debug\notas.pdb
+E:\notas\notas\obj\Debug\notas.csprojResolveAssemblyReference.cache
+E:\notas\notas\obj\Debug\notas.Form1.resources
+E:\notas\notas\obj\Debug\notas.Properties.Resources.resources
+E:\notas\notas\obj\Debug\notas.csproj.GenerateResource.Cache

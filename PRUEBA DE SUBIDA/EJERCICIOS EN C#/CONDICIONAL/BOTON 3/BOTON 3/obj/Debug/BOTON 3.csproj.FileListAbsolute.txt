@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\EJERCICIOS EN C#\CONDICIONAL\BOTON 3\BOTON 3\bin\Debug\BOTON 3.exe.config
+C:\Users\Aprendiz\Desktop\EJERCICIOS EN C#\CONDICIONAL\BOTON 3\BOTON 3\bin\Debug\BOTON 3.exe
+C:\Users\Aprendiz\Desktop\EJERCICIOS EN C#\CONDICIONAL\BOTON 3\BOTON 3\bin\Debug\BOTON 3.pdb
+C:\Users\Aprendiz\Desktop\EJERCICIOS EN C#\CONDICIONAL\BOTON 3\BOTON 3\obj\Debug\BOTON_3.Form1.resources
+C:\Users\Aprendiz\Desktop\EJERCICIOS EN C#\CONDICIONAL\BOTON 3\BOTON 3\obj\Debug\BOTON_3.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\EJERCICIOS EN C#\CONDICIONAL\BOTON 3\BOTON 3\obj\Debug\BOTON 3.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\EJERCICIOS EN C#\CONDICIONAL\BOTON 3\BOTON 3\obj\Debug\BOTON 3.exe
+C:\Users\Aprendiz\Desktop\EJERCICIOS EN C#\CONDICIONAL\BOTON 3\BOTON 3\obj\Debug\BOTON 3.pdb

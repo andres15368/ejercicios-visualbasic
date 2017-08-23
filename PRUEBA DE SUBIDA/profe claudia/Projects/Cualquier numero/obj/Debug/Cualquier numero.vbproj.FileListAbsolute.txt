@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\bin\Debug\Cualquier numero.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\bin\Debug\Cualquier numero.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\bin\Debug\Cualquier numero.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\bin\Debug\Cualquier numero.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\obj\Debug\Cualquier_numero.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\obj\Debug\Cualquier numero.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\obj\Debug\Cualquier numero.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\obj\Debug\Cualquier numero.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\Cualquier numero\obj\Debug\Cualquier numero.pdb

@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\bin\Debug\raiz cubica.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\bin\Debug\raiz cubica.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\bin\Debug\raiz cubica.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\bin\Debug\raiz cubica.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\obj\Debug\raiz_cubica.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\obj\Debug\raiz cubica.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\obj\Debug\raiz cubica.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\obj\Debug\raiz cubica.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\raiz cubica\obj\Debug\raiz cubica.pdb

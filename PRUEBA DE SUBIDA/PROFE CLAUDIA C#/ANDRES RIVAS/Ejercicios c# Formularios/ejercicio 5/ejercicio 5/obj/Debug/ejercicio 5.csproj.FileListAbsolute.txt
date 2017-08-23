@@ -1,0 +1,11 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\obj\Debug\ejercicio_5.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\obj\Debug\ejercicio_5.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\obj\Debug\ejercicio_5.ejercicio6.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\ejercicio 5\ejercicio 5\obj\Debug\ejercicio_5.ejercicio_7.resources

@@ -1,0 +1,27 @@
+E:\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.exe.config
+E:\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.exe
+E:\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.pdb
+E:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csprojResolveAssemblyReference.cache
+E:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas_de_multiplicar.Form1.resources
+E:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas_de_multiplicar.Properties.Resources.resources
+E:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csproj.GenerateResource.Cache
+E:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.exe
+E:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.pdb
+G:\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.exe.config
+G:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.pdb
+G:\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.exe
+G:\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.pdb
+G:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csprojResolveAssemblyReference.cache
+G:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas_de_multiplicar.Form1.resources
+G:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas_de_multiplicar.Properties.Resources.resources
+G:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csproj.GenerateResource.Cache
+G:\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.exe
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.exe.config
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.exe
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.pdb
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.exe
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.pdb
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csprojResolveAssemblyReference.cache
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas_de_multiplicar.Form1.resources
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas_de_multiplicar.Properties.Resources.resources
+D:\ejercicios profe\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csproj.GenerateResource.Cache

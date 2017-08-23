@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\bin\Debug\promediode20notas_ciclofor.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\obj\Debug\promediode20notas_ciclofor.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\obj\Debug\promediode20notas_ciclofor.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\obj\Debug\promediode20notas_ciclofor.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\obj\Debug\promediode20notas_ciclofor.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\bin\Debug\promediode20notas_ciclofor.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\bin\Debug\promediode20notas_ciclofor.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\obj\Debug\promediode20notas_ciclofor.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\promediode20notas_ciclofor\promediode20notas_ciclofor\obj\Debug\promediode20notas_ciclofor.pdb

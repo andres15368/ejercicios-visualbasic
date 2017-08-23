@@ -1,0 +1,11 @@
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\bin\Debug\ejercicios for.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\bin\Debug\ejercicios for.exe
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\bin\Debug\ejercicios for.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\obj\Debug\ejercicios for.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\obj\Debug\ejercicios_for.ESTATURA.resources
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\obj\Debug\ejercicios_for.Properties.Resources.resources
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\obj\Debug\ejercicios for.csproj.GenerateResource.Cache
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\obj\Debug\ejercicios for.exe
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\obj\Debug\ejercicios for.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\obj\Debug\ejercicios_for.ALMACEN.resources
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicios for\ejercicios for\obj\Debug\ejercicios_for.INTERESES.resources

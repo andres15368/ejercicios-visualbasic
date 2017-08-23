@@ -1,0 +1,100 @@
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe.config
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csprojResolveAssemblyReference.cache
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Form1.resources
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Properties.Resources.resources
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csproj.GenerateResource.Cache
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.pdb
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.exe
+C:\Users\YEFROOT\Documents\Visual Studio 2015\Projects\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.pdb
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe.config
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.exe
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.pdb
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.pdb
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Form1.resources
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csproj.GenerateResource.Cache
+F:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe.config
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.exe
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.pdb
+F:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe
+F:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.pdb
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csprojResolveAssemblyReference.cache
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Properties.Resources.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csproj.GenerateResource.Cache
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Intereses.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Calificaciones.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Almacen.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Estado.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Articulo.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Estatura.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe.config
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.exe
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.pdb
+G:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe
+G:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.pdb
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csprojResolveAssemblyReference.cache
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Almacen.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Articulo.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Calificaciones.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Camisas.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Estado.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Estatura.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Intereses.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Properties.Resources.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csproj.GenerateResource.Cache
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Empresa_de_fabrica.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.llantera.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.supermercado.resources
+G:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.seguros.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe.config
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.exe
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.pdb
+D:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.exe
+D:\ejercicios profe\AlturaMayor\AlturaMayor\bin\Debug\AlturaMayor.pdb
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csprojResolveAssemblyReference.cache
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Almacen.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Articulo.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Calificaciones.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Camisas.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Empresa_de_fabrica.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.escuela.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Estado.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Estatura.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Intereses.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.llantera.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Properties.Resources.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.seguros.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.supermercado.resources
+D:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.csproj.GenerateResource.Cache
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Camisas.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.Empresa_de_fabrica.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.escuela.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.llantera.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.seguros.resources
+F:\ejercicios profe\AlturaMayor\AlturaMayor\obj\Debug\AlturaMayor.supermercado.resources
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\bin\Debug\AlturaMayor.exe.config
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.exe
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.pdb
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\bin\Debug\AlturaMayor.exe.config
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.exe
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.pdb
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\bin\Debug\AlturaMayor.exe
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\bin\Debug\AlturaMayor.pdb
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.csprojResolveAssemblyReference.cache
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Almacen.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Articulo.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Calificaciones.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Camisas.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Empresa_de_fabrica.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.escuela.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Estado.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Estatura.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Intereses.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.llantera.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.seguros.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.supermercado.resources
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\proyecto 12\AlturaMayor\obj\Debug\AlturaMayor.csproj.GenerateResource.Cache

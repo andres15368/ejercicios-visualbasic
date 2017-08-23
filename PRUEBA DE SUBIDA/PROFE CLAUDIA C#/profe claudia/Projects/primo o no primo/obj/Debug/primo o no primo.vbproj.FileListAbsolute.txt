@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\bin\Debug\primo o no primo.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\obj\Debug\primo_o_no_primo.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\obj\Debug\primo o no primo.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\bin\Debug\primo o no primo.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\bin\Debug\primo o no primo.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\bin\Debug\primo o no primo.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\obj\Debug\primo o no primo.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\obj\Debug\primo o no primo.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\primo o no primo\obj\Debug\primo o no primo.pdb

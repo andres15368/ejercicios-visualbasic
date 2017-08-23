@@ -1,0 +1,39 @@
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\bin\Debug\ejercicios matematico.exe.config
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\bin\Debug\ejercicios matematico.exe
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\bin\Debug\ejercicios matematico.pdb
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios matematico.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.Form1.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.Properties.Resources.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios matematico.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios matematico.exe
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios matematico.pdb
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.edad.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.notas.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.altura.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.promedio.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.mayor_menor.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.mayor_de_3.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.hipotenusa.resources
+C:\Users\APRENDIZ\Documents\ejercicios mat\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.area_de_cuadrado.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\bin\Debug\ejercicios matematico.exe.config
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios matematico.exe
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios matematico.pdb
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\bin\Debug\ejercicios matematico.exe
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\bin\Debug\ejercicios matematico.pdb
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios matematico.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.altura.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.area_de_cuadrado.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.area_y_volimen_de_cilindro.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.edad.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.Form1.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.hipotenusa.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.mayor_de_3.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.mayor_menor.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.notas.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.promedio.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios matematico.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.arearectangulo.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.par_y_inpar.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.calificaciones.resources
+C:\Users\APRENDIZ\Desktop\ejercicios matematico\ejercicios matematico\obj\Debug\ejercicios_matematico.orden_de_mayor_a_menor.resources

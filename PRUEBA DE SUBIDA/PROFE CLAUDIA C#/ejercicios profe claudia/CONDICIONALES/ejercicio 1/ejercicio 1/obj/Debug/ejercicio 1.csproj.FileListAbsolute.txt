@@ -1,0 +1,36 @@
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.pdb
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.inventario.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.Properties.Resources.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.proveedor.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csproj.GenerateResource.Cache
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.exe
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.inventario.resources
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.Properties.Resources.resources
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.proveedor.resources
+C:\Users\olgac\Desktop\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csproj.GenerateResource.Cache
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.exe
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.pdb
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.pdb
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csprojResolveAssemblyReference.cache
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.inventario.resources
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.Properties.Resources.resources
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio_1.proveedor.resources
+E:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csproj.GenerateResource.Cache
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.exe
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.pdb
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.exe
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.pdb

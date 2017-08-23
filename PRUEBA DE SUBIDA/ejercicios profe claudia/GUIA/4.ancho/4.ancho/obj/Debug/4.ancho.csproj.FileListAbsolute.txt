@@ -1,0 +1,8 @@
+D:\Yaneth\ejercicios profe claudia\4.ancho\4.ancho\bin\Debug\4.ancho.exe.config
+D:\Yaneth\ejercicios profe claudia\4.ancho\4.ancho\bin\Debug\4.ancho.exe
+D:\Yaneth\ejercicios profe claudia\4.ancho\4.ancho\bin\Debug\4.ancho.pdb
+D:\Yaneth\ejercicios profe claudia\4.ancho\4.ancho\obj\Debug\_4.ancho.Form1.resources
+D:\Yaneth\ejercicios profe claudia\4.ancho\4.ancho\obj\Debug\_4.ancho.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\4.ancho\4.ancho\obj\Debug\4.ancho.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\4.ancho\4.ancho\obj\Debug\4.ancho.exe
+D:\Yaneth\ejercicios profe claudia\4.ancho\4.ancho\obj\Debug\4.ancho.pdb

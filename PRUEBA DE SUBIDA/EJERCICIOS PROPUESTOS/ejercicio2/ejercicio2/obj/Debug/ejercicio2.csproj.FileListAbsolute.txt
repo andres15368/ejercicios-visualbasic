@@ -1,0 +1,8 @@
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\APRENDIZ\Desktop\claudia c#\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb

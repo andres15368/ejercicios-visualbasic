@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\bin\Debug\letra.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\bin\Debug\letra.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\bin\Debug\letra.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\obj\Debug\letra.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\obj\Debug\letra.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\obj\Debug\letra.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\obj\Debug\letra.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\obj\Debug\letra.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\letra\letra\obj\Debug\letra.pdb

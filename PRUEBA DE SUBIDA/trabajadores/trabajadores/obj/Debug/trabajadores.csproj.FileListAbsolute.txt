@@ -1,0 +1,9 @@
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\bin\Debug\trabajadores.exe.config
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\obj\Debug\trabajadores.csprojResolveAssemblyReference.cache
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\obj\Debug\trabajadores.Form1.resources
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\obj\Debug\trabajadores.Properties.Resources.resources
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\obj\Debug\trabajadores.csproj.GenerateResource.Cache
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\bin\Debug\trabajadores.exe
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\bin\Debug\trabajadores.pdb
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\obj\Debug\trabajadores.exe
+G:\Yaneth\15 Agosto\trabajadores\trabajadores\obj\Debug\trabajadores.pdb

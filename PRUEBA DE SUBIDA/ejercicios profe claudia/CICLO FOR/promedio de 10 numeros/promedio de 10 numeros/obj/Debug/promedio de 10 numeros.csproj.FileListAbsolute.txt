@@ -1,0 +1,16 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\promedio de 10 numeros.exe.config
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\promedio de 10 numeros.exe.config
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\promedio de 10 numeros.exe
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\promedio de 10 numeros.pdb
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\mscorlib.dll
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\es\mscorlib.resources.dll
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\normidna.nlp
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\normnfc.nlp
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\normnfd.nlp
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\normnfkc.nlp
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\bin\Debug\normnfkd.nlp
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\obj\Debug\promedio de 10 numeros.csprojResolveAssemblyReference.cache
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\obj\Debug\promedio_de_10_numeros.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\obj\Debug\promedio de 10 numeros.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\obj\Debug\promedio de 10 numeros.exe
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\promedio de 10 numeros\promedio de 10 numeros\obj\Debug\promedio de 10 numeros.pdb

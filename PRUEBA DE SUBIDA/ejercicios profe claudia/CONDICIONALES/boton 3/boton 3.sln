@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boton 3", "boton 3\boton 3.csproj", "{24D48FA4-5656-4E3D-B761-DC5FBCB8D1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D48FA4-5656-4E3D-B761-DC5FBCB8D1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D48FA4-5656-4E3D-B761-DC5FBCB8D1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D48FA4-5656-4E3D-B761-DC5FBCB8D1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D48FA4-5656-4E3D-B761-DC5FBCB8D1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

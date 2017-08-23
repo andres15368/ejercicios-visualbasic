@@ -1,0 +1,5 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\calificaciones alumnos\calificaciones alumnos\bin\Debug\calificaciones alumnos.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\calificaciones alumnos\calificaciones alumnos\obj\Debug\calificaciones alumnos.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\calificaciones alumnos\calificaciones alumnos\obj\Debug\calificaciones_alumnos.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\calificaciones alumnos\calificaciones alumnos\obj\Debug\calificaciones_alumnos.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\calificaciones alumnos\calificaciones alumnos\obj\Debug\calificaciones alumnos.csproj.GenerateResource.Cache

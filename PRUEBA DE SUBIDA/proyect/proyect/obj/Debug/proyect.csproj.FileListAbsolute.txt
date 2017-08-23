@@ -1,0 +1,28 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\bin\Debug\proyect.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\bin\Debug\proyect.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\bin\Debug\proyect.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\proyect.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\MainWindow.g.cs
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\App.g.cs
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\proyect_MarkupCompile.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\proyect_MarkupCompile.lref
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\MainWindow.baml
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\proyect.g.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\proyect.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\proyect.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\proyect.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\proyect\proyect\obj\Debug\proyect.pdb
+C:\Users\APRENDIZ\Desktop\proyect\proyect\bin\Debug\proyect.exe.config
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\proyect.exe
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\proyect.pdb
+C:\Users\APRENDIZ\Desktop\proyect\proyect\bin\Debug\proyect.exe
+C:\Users\APRENDIZ\Desktop\proyect\proyect\bin\Debug\proyect.pdb
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\proyect.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\MainWindow.g.cs
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\App.g.cs
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\proyect_MarkupCompile.cache
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\proyect_MarkupCompile.lref
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\MainWindow.baml
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\proyect.g.resources
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\proyect.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\proyect\proyect\obj\Debug\proyect.csproj.GenerateResource.Cache

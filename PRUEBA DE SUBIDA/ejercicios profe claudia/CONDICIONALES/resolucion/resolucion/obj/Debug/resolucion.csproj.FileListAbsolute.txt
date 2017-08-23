@@ -1,0 +1,12 @@
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\bin\Debug\resolucion.exe.config
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\bin\Debug\resolucion.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\bin\Debug\resolucion.pdb
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\obj\Debug\resolucion.csprojResolveAssemblyReference.cache
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\obj\Debug\resolucion.Form1.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\obj\Debug\resolucion.Properties.Resources.resources
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\obj\Debug\resolucion.csproj.GenerateResource.Cache
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\obj\Debug\resolucion.exe
+C:\Users\aprendiz.SOACDPRCID7F419\Desktop\CONDICIONALES\resolucion\resolucion\obj\Debug\resolucion.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\resolucion\resolucion\bin\Debug\resolucion.exe.config
+C:\Users\olgac\Desktop\CONDICIONALES\resolucion\resolucion\obj\Debug\resolucion.exe
+C:\Users\olgac\Desktop\CONDICIONALES\resolucion\resolucion\obj\Debug\resolucion.pdb

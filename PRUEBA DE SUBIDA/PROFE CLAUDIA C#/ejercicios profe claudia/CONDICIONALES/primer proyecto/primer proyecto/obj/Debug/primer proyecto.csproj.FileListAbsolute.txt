@@ -1,0 +1,30 @@
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe.config
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\bin\Debug\primer proyecto.pdb
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form1.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Properties.Resources.resources
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csproj.GenerateResource.Cache
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer proyecto.exe
+c:\users\aprendiz.soacdprcid7f419\documents\visual studio 2012\Projects\primer proyecto\primer proyecto\obj\Debug\primer proyecto.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe.config
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.exe
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\bin\Debug\primer proyecto.pdb
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csprojResolveAssemblyReference.cache
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form1.resources
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Properties.Resources.resources
+C:\Users\olgac\Desktop\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csproj.GenerateResource.Cache
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe.config
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.exe
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.pdb
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\bin\Debug\primer proyecto.pdb
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csprojResolveAssemblyReference.cache
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form1.resources
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Properties.Resources.resources
+F:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe.config
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.exe
+D:\Yaneth\ejercicios profe claudia\CONDICIONALES\primer proyecto\primer proyecto\obj\Debug\primer proyecto.pdb

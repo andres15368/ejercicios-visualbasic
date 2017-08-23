@@ -1,0 +1,79 @@
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe.config
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.pdb
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csprojResolveAssemblyReference.cache
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.estacionamiento.resources
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.Properties.Resources.resources
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csproj.GenerateResource.Cache
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.exe
+C:\Users\APRENIDZ\Desktop\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.pdb
+D:\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe.config
+D:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.exe
+D:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.pdb
+D:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csprojResolveAssemblyReference.cache
+D:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.empresa_constructora.resources
+D:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.estacionamiento.resources
+D:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.Properties.Resources.resources
+D:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csproj.GenerateResource.Cache
+D:\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe
+D:\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.pdb
+F:\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe.config
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.exe
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.pdb
+F:\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe
+F:\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.pdb
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csprojResolveAssemblyReference.cache
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.empresa_constructora.resources
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.estacionamiento.resources
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.Properties.Resources.resources
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csproj.GenerateResource.Cache
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.promedio.resources
+F:\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.muestreo.resources
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe.config
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.exe
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.pdb
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.pdb
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csprojResolveAssemblyReference.cache
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.empresa_constructora.resources
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.estacionamiento.resources
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.muestreo.resources
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.promedio.resources
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.Properties.Resources.resources
+D:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csproj.GenerateResource.Cache
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe.config
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.exe
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.pdb
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.exe
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\bin\Debug\ciclo for.pdb
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csprojResolveAssemblyReference.cache
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.empresa_constructora.resources
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.estacionamiento.resources
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.muestreo.resources
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.promedio.resources
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo_for.Properties.Resources.resources
+G:\ejercicios profe\ciclo for\ciclo for\ciclo for\obj\Debug\ciclo for.csproj.GenerateResource.Cache
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\bin\Debug\ciclo for.exe.config
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo for.exe
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo for.pdb
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\bin\Debug\ciclo for.exe
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\bin\Debug\ciclo for.pdb
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo for.csprojResolveAssemblyReference.cache
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.empresa_constructora.resources
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.estacionamiento.resources
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.muestreo.resources
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.promedio.resources
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.Properties.Resources.resources
+D:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo for.csproj.GenerateResource.Cache
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\bin\Debug\ciclo for.exe.config
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo for.exe
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo for.pdb
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo for.csprojResolveAssemblyReference.cache
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.empresa_constructora.resources
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.estacionamiento.resources
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.muestreo.resources
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.promedio.resources
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo_for.Properties.Resources.resources
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\obj\Debug\ciclo for.csproj.GenerateResource.Cache
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\bin\Debug\ciclo for.exe
+E:\Yaneth\ejercicios profe claudia\CICLO FOR\ciclo for\ciclo for\bin\Debug\ciclo for.pdb

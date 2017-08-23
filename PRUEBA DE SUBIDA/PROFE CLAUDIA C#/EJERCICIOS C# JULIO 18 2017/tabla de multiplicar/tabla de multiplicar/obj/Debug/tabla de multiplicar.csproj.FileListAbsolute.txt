@@ -1,0 +1,18 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla_de_multiplicar.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla_de_multiplicar.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.pdb
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.exe.config
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.exe
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.pdb
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.exe
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.pdb
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla_de_multiplicar.Form1.resources
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla_de_multiplicar.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\EJERCICIOS C# JULIO 18 2017\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.csproj.GenerateResource.Cache
